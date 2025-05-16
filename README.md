@@ -9,7 +9,7 @@ Classify YouTube videos into **Music**, **Speech**, or both by analyzing titles,
 - Fully interactive Streamlit UI
 
 ## 🖥️ Demo Screenshot
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](assets/sample_image.png)
 
 ## 🛠️ Tech Stack
 - Python
